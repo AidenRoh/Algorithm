@@ -1,10 +1,10 @@
-package algorithm.baekjoon.algo1193;
+package algorithm.baekjoon.algo1000;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class Algo1193 {
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
