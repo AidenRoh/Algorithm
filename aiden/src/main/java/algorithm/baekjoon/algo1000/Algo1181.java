@@ -8,8 +8,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Algo1181 {
+
+	private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 		int wordCount = Integer.valueOf(br.readLine());
 		String[] data = new String[wordCount];
