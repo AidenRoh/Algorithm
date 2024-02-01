@@ -7,8 +7,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Algo1264 {
+
+    private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
     public static void main(String[] args) throws IOException{
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int count;
 
@@ -28,7 +30,6 @@ public class Algo1264 {
             for (int i = 0; i < initSentence.length(); i++)
                 if (distinguish.get(initSentence.charAt(i)) != null) count++;
             System.out.println(count);
-
         }
     }
 }
