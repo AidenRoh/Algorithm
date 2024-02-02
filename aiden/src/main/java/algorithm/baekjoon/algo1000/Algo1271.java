@@ -7,8 +7,11 @@ import java.math.BigInteger;
 import java.util.StringTokenizer;
 
 public class Algo1271 {
+
+    private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         BigInteger n = new BigInteger(st.nextToken());
