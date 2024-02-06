@@ -5,9 +5,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Algo1193 {
+
+	private static BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 	public static void main(String[] args) throws IOException {
 
-		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		int inputValue = Integer.valueOf(bf.readLine());
 		bf.close();
 
