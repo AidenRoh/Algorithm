@@ -12,13 +12,20 @@ public class Main2 {
     }
 
     public String solution(String source){
-        String convertedValue ="";
-        for (char c : source.toCharArray()){
+        StringBuilder convertedValue = new StringBuilder();
+
+       /* for (char c : source.toCharArray()){
             if (Character.isLowerCase(c)){
                 c = Character.toUpperCase(c);
             } else c = Character.toLowerCase(c);
             convertedValue += c;
+        }*/
+
+        for (char c : source.toCharArray()){
+            if (c >= 65 && c <=95) convertedValue.append((char) (c + 32));
+            else convertedValue.append((char) (c - 32));
         }
-        return convertedValue;
+
+        return convertedValue.toString();
     }
 }
