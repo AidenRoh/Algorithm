@@ -22,7 +22,7 @@ public class Main2 {
         }*/
 
         for (char c : source.toCharArray()){
-            if (c >= 65 && c <=95) convertedValue.append((char) (c + 32));
+            if (c >= 65 && c <=90) convertedValue.append((char) (c + 32));
             else convertedValue.append((char) (c - 32));
         }
 
