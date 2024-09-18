@@ -29,8 +29,7 @@ public class Main5 {
     }
 
     public String solution(String input){
-        int lt = 0;
-        int rt = input.length() -1;
+        int lt = 0, rt = input.length() -1;
         char[] arr = input.toCharArray();
         while(lt < rt){
             if (Character.isAlphabetic(arr[lt]) && Character.isAlphabetic(arr[rt])){
@@ -42,6 +41,24 @@ public class Main5 {
             }
             if (!Character.isAlphabetic(arr[lt])) lt++;
             if (!Character.isAlphabetic(arr[rt])) rt--;
+        }
+        return String.valueOf(arr);
+    }
+
+    public String solution2(String input){
+        char[] arr = input.toCharArray();
+        int lt =0, rt = input.length() -1;
+        while(lt < rt){
+            if(!Character.isAlphabetic(arr[lt])) lt++;
+            else if (Character.isAlphabetic(arr[rt])) {
+                rt--;
+            } else {
+                char tmp = arr[lt];
+                arr[lt] = arr[rt];
+                arr[rt] = tmp;
+                lt++;
+                rt--;
+            }
         }
         return String.valueOf(arr);
     }
