@@ -40,4 +40,12 @@ public class Main8 {
         }
         return (onlyAlphabet.equals(new StringBuilder(onlyAlphabet).reverse().toString())) ? "YES" : "NO";
     }
+
+    public String solution2(String input){
+        String answer = "NO";
+        input = input.toUpperCase().replaceAll("[^A-Z]", "");
+        String tmp = new StringBuilder(input).reverse().toString();
+        if (input.equals(tmp)) answer = "YES";
+        return answer;
+    }
 }

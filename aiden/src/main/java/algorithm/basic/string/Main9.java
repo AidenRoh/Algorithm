@@ -39,5 +39,15 @@ public class Main9 {
         return Integer.parseInt(answer);
     }
 
+    public int solution2(String input){
+        int answer = 0;
+        for (char each : input.toCharArray()){
+            if (each >= 48 && each <= 57) {
+                answer = answer * 10 + (each - 48);
+            }
+        }
+        return answer;
+    }
+
 
 }
