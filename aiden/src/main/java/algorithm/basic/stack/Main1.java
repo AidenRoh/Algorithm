@@ -14,6 +14,7 @@ public class Main1 {
 
     public void solution(char[] array){
         Stack<Integer> stack = new Stack<>();
+        System.out.println(stack.size());
         for (char each : array){
             int first = 0;
             int second = 0;
@@ -25,6 +26,7 @@ public class Main1 {
             }
         }
         System.out.print(stack.pop());
+
     }
 
     private int calculate(int a, int b, char operator){
