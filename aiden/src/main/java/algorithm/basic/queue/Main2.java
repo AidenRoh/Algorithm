@@ -27,4 +27,20 @@ public class Main2 {
         }
         System.out.print(result);
     }
+
+    public void solution2(String mandatory, String allLecture){
+        Queue<Character> queue = new LinkedList<>();
+        String result = "YES";
+        for (char each : mandatory.toCharArray()) queue.offer(each);
+        for (char each : allLecture.toCharArray()){
+            if (queue.contains(each)) {
+                if (each != queue.poll()){
+                    result = "NO";
+                    break;
+                }
+            }
+        }
+        if (!queue.isEmpty()) result = "NO";
+        System.out.print(result);
+    }
 }
