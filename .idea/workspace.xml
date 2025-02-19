@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4496d70f-9d2f-43c5-80ce-1cdef7942fb3" name="Changes" comment="feature: add algorithm problem and solution">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/aiden">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="aiden" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AidenRoh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AidenRoh/Algorithm.git&quot;,
+    &quot;accountId&quot;: &quot;c5b7ee05-27f0-4745-82be-acb6fa620625&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2TgGRjRP3zrw3WnX4IPdyIv8U28" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.aiden [:algorithm.basic.hash.Main1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.hash.Main3.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.number.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.number.Main10.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.number.Main11.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.number.Main12_1.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.number.Main6.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.number.Main7.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.number.Main8.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.number.Main9.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.string.Main10.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.string.Main11.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.string.Main6.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.string.Main7.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.string.Main8.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.string.Main9.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.twopointers.Main1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.twopointers.Main2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.twopointers.Main3.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.aiden [:algorithm.basic.twopointers.Main4.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#1 on AidenRoh&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aiden/Desktop/PS/Backend/Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.algorithm.basic.hash.Main3">
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.basic.twopointers.Main2" />
+      <module name="aiden.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.basic.twopointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.basic.twopointers.Main3" />
+      <module name="aiden.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.basic.twopointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.basic.twopointers.Main4" />
+      <module name="aiden.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.basic.twopointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="algorithm.basic.hash.Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.basic.hash.Main1" />
+      <module name="aiden.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.basic.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="algorithm.basic.hash.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.basic.hash.Main3" />
+      <module name="aiden.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.basic.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.algorithm.basic.hash.Main3" />
+        <item itemvalue="Application.algorithm.basic.hash.Main1" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4496d70f-9d2f-43c5-80ce-1cdef7942fb3" name="Changes" comment="" />
+      <created>1691457303878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691457303878</updated>
+      <workItem from="1726678189866" duration="25748000" />
+      <workItem from="1728302949410" duration="66179000" />
+      <workItem from="1733527758042" duration="2174000" />
+    </task>
+    <task id="LOCAL-00001" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1726681657148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726681657148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1726836767021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726836767021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1726850559089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726850559089</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1726993665693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726993665693</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1728448899021</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728448899021</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1728626283677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728626283677</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1728916409780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728916409780</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1730630331361</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730630331361</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1730726643212</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730726643212</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feature: add algorithm problem and solution">
+      <option name="closed" value="true" />
+      <created>1730843854022</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730843854022</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature: add algorithm problem and solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: add algorithm problem and solution" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/number/Main7.java</url>
+          <line>17</line>
+          <properties class="algorithm.basic.number.Main7" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/number/Main8.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/number/Main9.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/number/Main10.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/number/Main11.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/number/Main12_1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/twopointers/Main1.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/twopointers/Main3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/twopointers/Main4.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/hash/Main1.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/hash/Main1.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/hash/Main1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aiden/src/main/java/algorithm/basic/hash/Main3.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
